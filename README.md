@@ -1,4 +1,4 @@
-# CSE Dbms Lab
+# QueryCore DBMS Lab
 
 Curated coursework implementations and supporting documents from Prakhar Sharma's CSE lab work.
 
